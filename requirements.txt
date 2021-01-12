@@ -1,0 +1,11 @@
+Keras==2.4.3
+tensorflow==2.4.0
+pandas==0.25.3
+opencv-python
+sklearn==0.0
+imutils==0.5.3
+matplotlib
+xlrd==1.2.0
+h5py==2.10
+pytz==2019.3
+tqdm
